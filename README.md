@@ -1,4 +1,4 @@
-# Blindr: The Blinds of the fture
+# Blindr: The Blinds of the FUTURE
 
 ## Overview
 
