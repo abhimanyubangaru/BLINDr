@@ -67,6 +67,5 @@ Blindr communicates with the Lampi system via MQTT. The following channels are u
 
 Blindr demonstrates the potential of integrating various technologies to enhance user experience in smart dorm room setups. This project has been a rewarding journey, showcasing the power of combining web technologies, cloud services, MQTT, and BLE.
 
-For a comprehensive video of BLINDr, please refer to the following video
-https://github.com/abhimanyubangaru/blindr/assets/48572985/58cef0d7-ba56-41c0-afe6-a68226c4bc5e
+For a comprehensive video of BLINDr, please refer to the following video [here](https://github.com/abhimanyubangaru/blindr/assets/48572985/58cef0d7-ba56-41c0-afe6-a68226c4bc5e).
 
